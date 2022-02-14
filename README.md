@@ -1,1 +1,1 @@
-# it-recruiting-agency
+# Test application for IT Recruiting Agency
